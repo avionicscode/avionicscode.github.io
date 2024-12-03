@@ -2,7 +2,7 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
 
-View live demo here using github pages: [Live Demo](https://avionicscode.github.io/Digital-Resume/)
+View live demo here using github pages: [Live Demo](https://avionicscode.github.io/)
 
 ## Preview
 
