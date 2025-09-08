@@ -1,6 +1,5 @@
 - title: Skyline Computation on Multicore Architectures: A Survey
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Kingdom of Bahrain)
   short_abstract: |
@@ -9,8 +8,7 @@
     This work surveys existing skyline computation methods in multicore environments, analyzing scalability, performance, and optimization strategies for efficient query processing.
 
 - title: Parallel Continuous Skyline Query over High-Dimensional Data Stream Windows
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Springer Journal)
   short_abstract: |
@@ -19,8 +17,7 @@
     This paper proposes a parallel method for continuous skyline queries on high-dimensional data streams, ensuring efficient real-time decision-making in dynamic environments.
 
 - title: Advanced Processing of Sensing Big Data: A Multicore Architecture-Based Skyline Model
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (PhD Thesis, University of Blida 1)
   short_abstract: |
@@ -29,8 +26,7 @@
     The thesis develops advanced skyline query algorithms tailored for multicore architectures to manage and analyze sensing big data efficiently.
 
 - title: Real-Time Sensor Data Processing: Scalable GPU and Parallel Architectures for Data Streams
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Mila, Algeria)
   short_abstract: |
@@ -39,8 +35,7 @@
     This paper explores scalable GPU and parallel frameworks for handling real-time sensor data streams, enabling efficient skyline query processing.
 
 - title: Accelerating Big Data Analytics: Parallel and GPU-Based Strategies for Continuous Queries and Decision Support Systems
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Mila, Algeria)
   short_abstract: |
@@ -49,8 +44,7 @@
     The work proposes GPU-based and parallel skyline approaches to accelerate continuous query processing and enhance decision support systems.
 
 - title: Hybrid Computing Approaches for Efficient Data Management: GPU-Accelerated Skyline Queries for Energy-Efficient Smart Home Device Selection
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Ouargla, Algeria)
   short_abstract: |
@@ -59,8 +53,7 @@
     This research applies GPU-accelerated skyline queries to optimize smart home device selection, focusing on energy efficiency and scalability.
 
 - title: Large-Scale E-Commerce Product Selection Using Skyline Queries in Heterogeneous Computing Environments
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (El Tarf, Algeria)
   short_abstract: |
@@ -69,8 +62,7 @@
     This paper applies skyline algorithms to large-scale e-commerce data for efficient product selection in heterogeneous computing environments.
 
 - title: Optimizing Database Queries for Multi-Criteria Evaluation of Public Service Locations Using Parallel and GPU-Accelerated Skyline Techniques
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (El Tarf, Algeria)
   short_abstract: |
@@ -79,8 +71,7 @@
     This research presents parallel skyline strategies for evaluating public service locations, optimizing multi-criteria decision-making.
 
 - title: High-Performance Continuous Query Processing for Big Data Streams: GPU-Optimized Skyline Queries for Traffic Monitoring and Route Optimization
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Msila, Algeria)
   short_abstract: |
@@ -89,8 +80,7 @@
     This work applies GPU-optimized skyline queries to traffic monitoring and route optimization in real-time big data streams.
 
 - title: Energy-Efficient Intelligent Skyline Queries for Sustainable Public Service Placement Using Parallel and GPU-Accelerated Techniques
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Bordj Bou Arreridj, Algeria)
   short_abstract: |
@@ -99,8 +89,7 @@
     This paper investigates energy-efficient skyline algorithms for intelligent placement of public services in smart city contexts.
 
 - title: Towards Intelligent Recommendation Systems: Using Big Data and Parallel Skyline Algorithms for Optimal Service Selection
-  link: ""
-  pdf: ""
+  link: "https://www.researchgate.net/profile/Walid-Khames/research"
   details: |
     **Khames, W.** (Oran, Algeria)
   short_abstract: |
