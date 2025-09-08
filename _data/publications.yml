@@ -1,54 +1,109 @@
-- title: "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge"
-  link: https://ieeexplore.ieee.org/abstract/document/9446924/
+- title: Skyline Computation on Multicore Architectures: A Survey
+  link: ""
+  pdf: ""
   details: |
-    Verma, Ruchika, et al. (2021, IEEE Transactions on Medical Imaging)
+    **Khames, W.** (Kingdom of Bahrain)
   short_abstract: |
-    Detecting various types of cells in and around the tumor matrix holds a special significance in characterizing the tumor micro-environment for cancer prognostication and research. Automating the tasks of detecting, segmenting, and classifying nuclei can free up the pathologists’ time for higher value tasks and reduce errors due to fatigue and subjectivity.
+    A comprehensive survey of skyline computation techniques on multicore architectures, highlighting methods and challenges.
   abstract: |
-    Detecting various types of cells in and around the tumor matrix holds a special significance in characterizing the tumor micro-environment for cancer prognostication and research. Automating the tasks of detecting, segmenting, and classifying nuclei can free up the pathologists’ time for higher value tasks and reduce errors due to fatigue and subjectivity. To encourage the computer vision research community to develop and test algorithms for these tasks, we prepared a large and diverse dataset of nucleus boundary annotations and class labels. The dataset has over 46,000 nuclei from 37 hospitals, 71 patients, four organs, and four nucleus types. We also organized a challenge around this dataset as a satellite event at the International Symposium on Biomedical Imaging (ISBI) in April 2020. The challenge saw a wide participation from across the world, and the top methods were able to match inter-human concordance for the challenge metric. In this paper, we summarize the dataset and the key findings of the challenge, including the commonalities and differences between the methods developed by various participants. We have released the MoNuSAC2020 dataset to the public.
+    This work surveys existing skyline computation methods in multicore environments, analyzing scalability, performance, and optimization strategies for efficient query processing.
 
-- title: "DGSAN: Discrete Generative Self-Adversarial Network"
-  link: https://www.sciencedirect.com/science/article/abs/pii/S0925231221004835
-  pdf: https://arxiv.org/pdf/1908.09127
-  github: IAmS4n/DGSAN
+- title: Parallel Continuous Skyline Query over High-Dimensional Data Stream Windows
+  link: ""
+  pdf: ""
   details: |
-    **Montahaei, E.**, Alihosseini, D., & Baghshah, M. S. (2021, Neurocomputing 448)
+    **Khames, W.** (Springer Journal)
   short_abstract: |
-    Although GAN-based methods have received many achievements in the last few years, they have not been entirely successful in generating discrete data. The most crucial challenge of these methods is the difficulty of passing the gradient from the discriminator to the generator when the generator outputs are discrete.
+    A study of continuous skyline computation over high-dimensional streaming data.
   abstract: |
-    Although GAN-based methods have received many achievements in the last few years, they have not been entirely successful in generating discrete data. The most crucial challenge of these methods is the difficulty of passing the gradient from the discriminator to the generator when the generator outputs are discrete. Despite the fact that several attempts have been made to alleviate this problem, none of the existing GAN-based methods have improved the performance of text generation compared with the maximum likelihood approach in terms of both the quality and the diversity. In this paper, we proposed a new framework for generating discrete data by an adversarial approach in which there is no need to pass the gradient to the generator. The proposed method has an iterative manner in which each new generator is defined based on the last discriminator. It leverages the discreteness of data and the last discriminator to model the real data distribution implicitly. Moreover, the method is supported with theoretical guarantees, and experimental results generally show the superiority of the proposed DGSAN method compared to the other popular or recent methods in generating discrete sequential data.
+    This paper proposes a parallel method for continuous skyline queries on high-dimensional data streams, ensuring efficient real-time decision-making in dynamic environments.
 
-- title: Jointly measuring Diversity and Quality in text generation models
-  link: https://www.aclweb.org/anthology/W19-2311.pdf
-  pdf: https://www.aclweb.org/anthology/W19-2311.pdf
-  github: IAmS4n/TextGenerationEvaluationMetrics
-  slide: https://docs.google.com/presentation/d/1S-kgqCYNeC9SiIOQ_GshQvVnJYEp1yXARcZAe-a2oDg
-  youtube: x0MDJe4Oc4k
-  poster: /posters/NAACL2019_NeuralGen_JointlyMeasuring.pdf
+- title: Advanced Processing of Sensing Big Data: A Multicore Architecture-Based Skyline Model
+  link: ""
+  pdf: ""
   details: |
-    **Montahaei, E.**, Alihosseini, D., & Baghshah, M. S. (2019, In Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural Language Generation)
+    **Khames, W.** (PhD Thesis, University of Blida 1)
   short_abstract: |
-    Text generation is an important Natural Language Processing task with various applications. Although several metrics have already been introduced to evaluate the text generation methods, each of them has its own shortcomings. The most widely used metrics such as BLEU only consider the quality of generated sentences and neglect their diversity.
+    Doctoral thesis focused on multicore-based skyline query models for large-scale sensing data.
   abstract: |
-    Text generation is an important Natural Language Processing task with various applications. Although several metrics have already been introduced to evaluate the text generation methods, each of them has its own shortcomings. The most widely used metrics such as BLEU only consider the quality of generated sentences and neglect their diversity. For example, repeatedly generation of only one high quality sentence would result in a high BLEU score. On the other hand, the more recent metric introduced to evaluate the diversity of generated texts known as Self-BLEU ignores the quality of generated texts. In this paper, we propose metrics to evaluate both the quality and diversity simultaneously by approximating the distance of the learned generative model and the real data distribution. For this purpose, we first introduce a metric that approximates this distance using n-gram based measures. Then, a feature-based measure which is based on a recent highly deep model trained on a large text corpus called BERT is introduced. Finally, for oracle training mode in which the generator's density can also be calculated, we propose to use the distance measures between the corresponding explicit distributions. Eventually, the most popular and recent text generation models are evaluated using both the existing and the proposed metrics and the preferences of the proposed metrics are determined.
+    The thesis develops advanced skyline query algorithms tailored for multicore architectures to manage and analyze sensing big data efficiently.
 
-- title: Adversarial classifier for imbalanced problems
-  link: https://arxiv.org/abs/1811.08812
-  pdf: https://arxiv.org/pdf/1811.08812.pdf
+- title: Real-Time Sensor Data Processing: Scalable GPU and Parallel Architectures for Data Streams
+  link: ""
+  pdf: ""
   details: |
-    **Montahaei, E.**, Ghorbani, M., Baghshah, M. S., & Rabiee, H. R. (2018)
+    **Khames, W.** (Mila, Algeria)
   short_abstract: |
-    Adversarial approach has been widely used for data generation in the last few years. However, this approach has not been extensively utilized for classifier training. In this paper, we propose an adversarial framework for classifier training that can also handle imbalanced data.
+    GPU and parallel skyline query frameworks for real-time sensor data analytics.
   abstract: |
-    Adversarial approach has been widely used for data generation in the last few years. However, this approach has not been extensively utilized for classifier training. In this paper, we propose an adversarial framework for classifier training that can also handle imbalanced data. Indeed, a network is trained via an adversarial approach to give weights to samples of the majority class such that the obtained classification problem becomes more challenging for the discriminator and thus boosts its classification capability. In addition to the general imbalanced classification problems, the proposed method can also be used for problems such as graph representation learning in which it is desired to discriminate similar nodes from dissimilar nodes. Experimental results on imbalanced data classification and on the tasks like graph link prediction show the superiority of the proposed method compared to the state-of-the-art methods.
+    This paper explores scalable GPU and parallel frameworks for handling real-time sensor data streams, enabling efficient skyline query processing.
 
-- title: Efficient continuous skyline computation on multi-core processors based on Manhattan distance
-  link: https://ieeexplore.ieee.org/abstract/document/7340469
-  pdf: /papers/EfficientSkylineManhattan.pdf
-  slide: /slide/EfficientSkylineManhattan.pdf
+- title: Accelerating Big Data Analytics: Parallel and GPU-Based Strategies for Continuous Queries and Decision Support Systems
+  link: ""
+  pdf: ""
   details: |
-    **Montahaei, E.**, Ghafouri, M., Rahmani, S., Ghasemi, H., Bakhtiar, F. S., Zamanshoar, R., ... & Gorgin, S. (2015, In 2015 ACM/IEEE International Conference on Formal Methods and Models for Codesign. IEEE.)
+    **Khames, W.** (Mila, Algeria)
   short_abstract: |
-    The continuous Skyline query has recently become the subject of several research projects due to its wide spectrum of applications such as multi-criteria decision making, graph analysis network, wireless sensor network, and data exploration.
+    Hybrid strategies for accelerating continuous queries with GPU and parallel approaches.
   abstract: |
-    The continuous Skyline query has recently become the subject of several research projects due to its wide spectrum of applications such as multi-criteria decision making, graph analysis network, wireless sensor network, and data exploration. In these applications, the datasets are huge and have various dimensions. Moreover, they constantly change as time passes. Therefore, this query is considered as a computation-intensive operation that finding the result in a reasonable time is a challenge. In this paper, we present an efficient parallel continuous Skyline approach. In our suggested method, the dataset points are sorted and pruned based on Manhattan distance. Moreover, we use several optimization methods to optimize memory usage in comparison with naïve implementation. In addition, besides the applied conventional parallelization methods, we partition the time steps based on the number of available cores. The experimental results for a dataset that contains 800k points with 7 dimensions show considerable speedup.
+    The work proposes GPU-based and parallel skyline approaches to accelerate continuous query processing and enhance decision support systems.
+
+- title: Hybrid Computing Approaches for Efficient Data Management: GPU-Accelerated Skyline Queries for Energy-Efficient Smart Home Device Selection
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (Ouargla, Algeria)
+  short_abstract: |
+    A hybrid CPU-GPU skyline method for smart home device optimization.
+  abstract: |
+    This research applies GPU-accelerated skyline queries to optimize smart home device selection, focusing on energy efficiency and scalability.
+
+- title: Large-Scale E-Commerce Product Selection Using Skyline Queries in Heterogeneous Computing Environments
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (El Tarf, Algeria)
+  short_abstract: |
+    Skyline queries for multi-criteria e-commerce product recommendation.
+  abstract: |
+    This paper applies skyline algorithms to large-scale e-commerce data for efficient product selection in heterogeneous computing environments.
+
+- title: Optimizing Database Queries for Multi-Criteria Evaluation of Public Service Locations Using Parallel and GPU-Accelerated Skyline Techniques
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (El Tarf, Algeria)
+  short_abstract: |
+    GPU-accelerated skyline evaluation for public service location analysis.
+  abstract: |
+    This research presents parallel skyline strategies for evaluating public service locations, optimizing multi-criteria decision-making.
+
+- title: High-Performance Continuous Query Processing for Big Data Streams: GPU-Optimized Skyline Queries for Traffic Monitoring and Route Optimization
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (Msila, Algeria)
+  short_abstract: |
+    GPU skyline queries for traffic data stream optimization.
+  abstract: |
+    This work applies GPU-optimized skyline queries to traffic monitoring and route optimization in real-time big data streams.
+
+- title: Energy-Efficient Intelligent Skyline Queries for Sustainable Public Service Placement Using Parallel and GPU-Accelerated Techniques
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (Bordj Bou Arreridj, Algeria)
+  short_abstract: |
+    Skyline-based approaches for sustainable public service placement.
+  abstract: |
+    This paper investigates energy-efficient skyline algorithms for intelligent placement of public services in smart city contexts.
+
+- title: Towards Intelligent Recommendation Systems: Using Big Data and Parallel Skyline Algorithms for Optimal Service Selection
+  link: ""
+  pdf: ""
+  details: |
+    **Khames, W.** (Oran, Algeria)
+  short_abstract: |
+    Parallel skyline algorithms for intelligent recommendation systems.
+  abstract: |
+    The study proposes big data-driven skyline frameworks for intelligent recommendation systems, ensuring optimal multi-criteria service selection.
