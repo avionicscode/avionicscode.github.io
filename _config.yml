@@ -1,23 +1,23 @@
 # Site
-repository: IAmS4n/IAmS4n.github.io
+repository: avionicscode/avionicscode.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Ehsan Montahaei
-title: Machine Learning Researcher
-email: ehsan.montahaei@gmail.com
+name: Khames Walid
+title: Big Data Researcher
+email: khames.walid@univ-blida.dz
 #phone: Your phone number (optional)
-#website: https://iams4n.github.io
-#cv: Ehsan_Montahaei.pdf
+#website: https://avionicscode.github.io
+#cv: Walid_khames.pdf
 
 # Dark Mode (true/false/never)
 darkmode: true
 graph_animation: true
 
 # Social links
-googlescholar: hzcep2cAAAAJ
-github_username:  iams4n
-linkedin_username: ehsan-montahaei
+googlescholar: puetXngAAAAJ
+github_username:  avionicscode
+linkedin_username: walid-khames
 #twitter_username: jekyllrb
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
@@ -49,17 +49,17 @@ gtag: "UA-142543208-2"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is [*Ehsan*](https://www.pronouncenames.com/search?name=ehsan).
-  I hold an M.S. in Artificial intelligence from the Sharif University of Technology.
-  After graduation, I was working as a researcher in the Machine Learning Lab at the Sharif University of Technology.
-  My research interest is **Machine Learning**, especially **Deep Learning**.
-  My master thesis was about the **generative models** and usage of adversarial training for **sequence generation**.
-  Recently, I have focused on **Computer Vision** with an application in **Gigapixel Histopathology** images.
-  I also have some experience with multidisciplinary research, including the use of **GANs** in cosmology for Cosmic String simulations and segmentation and classification tasks for **3D images** of CT scan and MRI.
-  
-  I am fascinated by automation and the practical use of AI in real life.
-  The application of theory for practical solutions is the most exciting part of the research for me.
-  I enjoy dealing with challenges and solving problems, and I have participated in different competitions in the computer world, as you can see below.
+  My name is [*Walid*](https://www.pronouncenames.com/search?name=walid).
+  I hold a **Ph.D. in Big Data Management** from the **University of Blida 1, Algeria**.
+  I have been working as an independent researcher, with a strong focus on **data management, parallel computing, and skyline query processing** in **big data and heterogeneous computing environments**.
+
+  My research interests include **Big Data Analytics**, **Skyline Queries**, **Parallel and GPU-based Algorithms**, and their applications in areas such as **sensor data processing**, **traffic monitoring**, **intrusion detection systems**, and **intelligent recommendation systems**.
+
+  My doctoral research centered on designing **efficient skyline algorithms** for large-scale and streaming data, emphasizing **GPU acceleration** and **time-based sliding windows**.
+  I have also explored the use of **parallel frameworks** to enhance decision support systems in real-time environments.
+
+  I am fascinated by automation, scalability, and the deployment of theoretical models into **practical, real-world applications**.
+  I enjoy tackling complex challenges in data-intensive systems, and I have authored and published multiple single-author papers in international conferences and journals.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
