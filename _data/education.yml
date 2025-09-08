@@ -1,33 +1,68 @@
 # Education Template
+
 - layout: left
-  name: M.S. in Artificial Intelligence and Robotics
-  dates: 2016 - 2019
-  qualification: Sharif University of Technology, Tehran, Iran
-#  quote: >
-#      Supervisor : Dr.&nbsp;Mahdieh Soleymani Baghshah
+  name: Ph.D. in Avionics, Information and Electronic Systems
+  dates: 2018 - 2025
+  qualification: University of Blida 1, Algeria
   short_description: |
-    **Courses Taken:**
-    Deep Learning, Probabilistic Graphical Models, Machine Learning, Stochastic Processes, Digital image processing, Digital Signal Processing, Signal Processing, Social and Economics Networks
-
-    My thesis explored the GANs usage in discrete sequence generation, especially text generation.
-
+    Focused on avionics systems, electronic architectures, and big data applications
+    for aeronautics and UAV technologies.  
+    Developed research in GPU-based data processing frameworks, skyline query optimization,
+    and intelligent avionics systems.
   description: |
-    **Courses Taken:**
-    Deep Learning, Probabilistic Graphical Models, Machine Learning, Stochastic Processes, Digital image processing, Digital Signal Processing, Signal Processing, Social and Economics Networks
-
-    My thesis explored the GANs usage in discrete sequence generation, especially text generation.
-    I found some shortage in one of the common evaluation scenarios, and a new metric was introduced for enhancement of evaluation.
-    Also, a new method supporting theoretical analysis was introduced which were comparable to the state of the art methods.
-
-    The thesis (in Persian) and related publications are available in [*this repository*](https://github.com/IAmS4n/My-Msc-Thesis).
-
+    My doctoral research explored the integration of big data techniques, GPU parallel computing,
+    and real-time data stream management in avionics information systems.  
+    Contributions include:
+    - GPU-accelerated skyline algorithms for sensor data processing.  
+    - Development of decision-support frameworks for UAVs and avionics platforms.  
+    - Design of real-time data engines for complex aviation and sensor environments.
 
 - layout: left
-  name: B.S. in Software Engineering
-  dates: 2011 - 2016
-  qualification: Kharazmi University, Tehran, Iran
-  quote: >
-    Kharazmi University formerly known as Tarbiat Moallem University
+  name: Master’s Degree in Avionics
+  dates: 2016 - 2018
+  qualification: University of Blida 1, Algeria
+  short_description: |
+    Specialized in avionics control systems, flight electronics, and UAV modeling.
   description: |
-    **Courses Taken:**
-    Video Processing (Graduate Course), Probability and Statistics, Artificial Intelligence, Multimedia (introduction to Image Processing)
+    Gained expertise in advanced flight control, electronic instrumentation,
+    embedded systems, and UAV simulation.  
+    Thesis focused on drone modeling and control systems integrating sensor
+    feedback and robust algorithms.
+
+- layout: left
+  name: Licence in Aeronautics (Avionics)
+  dates: 2013 - 2016
+  qualification: University of Blida 1, Algeria
+  short_description: |
+    Solid foundation in avionics, aerospace engineering, and electronic systems.
+  description: |
+    Completed coursework in aerodynamics, avionics electronics, signal processing,
+    and aircraft control systems.  
+    Developed practical skills in UAV hardware and software integration.
+
+- layout: left
+  name: Baccalaureate in Experimental Science
+  dates: 2013
+  qualification: Abd El Hamid Ibn Badiss High School, Sétif, Algeria
+  short_description: |
+    Graduated with high honors (14.65/20).
+  description: |
+    Developed strong foundations in mathematics, physics, and experimental sciences,
+    which served as the basis for further studies in avionics and engineering.
+
+# Internships
+- layout: left
+  name: Internship at Air Algérie
+  dates: 2016
+  qualification: Avionics Systems Training
+  description: |
+    Gained hands-on experience with commercial aircraft avionics systems,
+    focusing on maintenance procedures, safety protocols, and operational workflows.
+
+- layout: left
+  name: Internship at University of Blida 1
+  dates: 2020
+  qualification: Research Internship
+  description: |
+    Worked on drone control frameworks and sensor data management software.
+    Involved in prototype development and validation of UAV avionics systems.
