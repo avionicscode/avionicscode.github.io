@@ -1,0 +1,105 @@
+# Site
+repository: IAmS4n/IAmS4n.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Ehsan Montahaei
+title: Machine Learning Researcher
+email: ehsan.montahaei@gmail.com
+#phone: Your phone number (optional)
+#website: https://iams4n.github.io
+#cv: Ehsan_Montahaei.pdf
+
+# Dark Mode (true/false/never)
+darkmode: true
+graph_animation: true
+
+# Social links
+googlescholar: hzcep2cAAAAJ
+github_username:  iams4n
+linkedin_username: ehsan-montahaei
+#twitter_username: jekyllrb
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: UC1C4SsiVLT5pLDiKvh4apSQ
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+gtag: "UA-142543208-2"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: /images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  My name is [*Ehsan*](https://www.pronouncenames.com/search?name=ehsan).
+  I hold an M.S. in Artificial intelligence from the Sharif University of Technology.
+  After graduation, I was working as a researcher in the Machine Learning Lab at the Sharif University of Technology.
+  My research interest is **Machine Learning**, especially **Deep Learning**.
+  My master thesis was about the **generative models** and usage of adversarial training for **sequence generation**.
+  Recently, I have focused on **Computer Vision** with an application in **Gigapixel Histopathology** images.
+  I also have some experience with multidisciplinary research, including the use of **GANs** in cosmology for Cosmic String simulations and segmentation and classification tasks for **3D images** of CT scan and MRI.
+  
+  I am fascinated by automation and the practical use of AI in real life.
+  The application of theory for practical solutions is the most exciting part of the research for me.
+  I enjoy dealing with challenges and solving problems, and I have participated in different competitions in the computer world, as you can see below.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+]

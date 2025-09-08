@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" style="scroll-behavior: smooth;">
+
+{%- include head.html -%}
+<body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+
+{%- if site.graph_animation -%}
+<div id="particles-js" style="position:fixed;"></div>
+<script src="{{ '/assets/js/particles.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+{%- endif -%}
+
+{%- include header.html -%}
+
+<a id="gettop"></a>
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+
+
+        {%- if jekyll.environment == 'production' and site.gtm -%}
+        {%- include gtm_body.html -%}
+        {%- endif -%}
+
+        {%- include about.html -%}
+
+        {%- if site.data.education.size > 0 -%}
+        {%- include education.html -%}
+        {%- endif -%}
+
+        {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
+        {%- endif -%}
+
+        {%- if site.data.publications.size > 0 -%}
+        {%- include publications.html -%}
+        {%- endif -%}
+
+        {%- if site.data.awards.size > 0 -%}
+        {%- include awards.html -%}
+        {%- endif -%}
+
+        {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+        {%- endif -%}
+
+        {%- if site.more_content -%}
+        {%- include more.html -%}
+        {%- endif -%}
+
+    </div>
+</main>
+
+<!--{%- include footer.html -%}-->
+{% if site.darkmode == false %}
+<script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+{% endif %}
+
+<div class="container-fluid"
+     style="padding:0!important; width:100%;  margin:0 auto; position: fixed; bottom: 0; text-align: center;">
+    <ul class="menu_icons"
+        style="margin:0 auto;js  border-top-left-radius: 10px; border-top-right-radius: 10px; border: 1px dotted white; border-bottom: 0; display:inline-block;">
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="About">
+            <a href="#about" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px; font-weight:10; border-radius:10px;">
+                <i class="fa fa-info"></i>
+            </a>
+        </li>
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="Education">
+            <a href="#education" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px;border-radius:10px;">
+                <i class="fa fa-graduation-cap"></i>
+            </a>
+        </li>
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="Experience">
+            <a href="#experience" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px;border-radius:10px;">
+                <i class="fa fa-eye"></i>
+            </a>
+        </li>
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="Publications">
+            <a href="#publications" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px;border-radius:10px;">
+                <i class="fa fa-book"></i>
+            </a>
+        </li>
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="Awards">
+            <a href="#awards" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px;border-radius:10px;">
+                <i class="fa fa-trophy"></i>
+            </a>
+        </li>
+
+        <li style="margin-right: 2px; margin-left: 2px; padding: 0px 0px 0px 0px;" title="Projects">
+            <a href="#projects" class="button button--sacnite button--round-l"
+               style="width:50px; height:50px;border-radius:10px;">
+                <i class="fa fa-code"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<script src="{{ '/assets/js/lightbox-plus-jquery.min.js' | relative_url }}"></script>
+
+<script>
+function toggle_div(name_id){
+  text = document.getElementById("div_id_long_"+name_id);
+  short_text = document.getElementById("div_id_short_"+name_id);
+  if(text.style.display == "none"){
+    text.style.display = "";
+    short_text.style.display = "none";
+  }
+};
+
+
+</script>
+
+</body>
+
+</html>
