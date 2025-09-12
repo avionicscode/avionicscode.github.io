@@ -1,83 +1,79 @@
-- name: Visual Question Answering
-  github: IAmS4n/Visual-Question-Answering
-  image: /images/vqa_logo.png
+- name: AeroBrain – Intelligent Drone Control System
+  github: avionicscode/AeroBrain-Intelligent-Drone-Control-System
+  image: /images/1AeroBrain.JPG
   description: |
-    Investigation on [VQA dataset](https://visualqa.org/vqa_v1_download.html).
-    **TensorFlow** is utilized to implement a solution based on CNN and LSTM architectures plus some ideas such as Attention and Positional features.
+    An AI-powered drone controller (software + hardware) with **real-time decision-making**, autopilot, and **obstacle avoidance**.
+    Applications include agriculture, surveillance, and delivery drones.
+    Built with AI (object detection, navigation), Embedded systems (controllers), Data Science (path optimization), and ML (flight pattern learning).
 
-- name: Matrix Factorization
-  github: IAmS4n/Matrix-Factorization
-  image: /images/PGM.png
+- name: SenseGrid – Next-Gen Sensor Data Management Platform
+  github: avionicscode/SenseGrid-Next-Gen-Sensor-Data-Management-Platform
+  image: /images/2SenseGrid.jpeg
   description: |
-    Finding of the missed values in the adjacency matrix of a big undirected weighted graph using **probabilistic graphical models**.
-    The adjacency matrix's values were modeled with Poisson distribution and Gamma prior.
-    Three approaches were investigated for solving the problem, including the **EM algorithm**, **Variational Inference**, and **Gibbs sampling** method.
-    I have experienced calculation and parallel implementation of these methods.
+    A platform to **collect, clean, process, and visualize** multi-sensor data in real time.
+    Targeted for smart cities, industrial IoT, and energy monitoring.
+    Powered by Big Data (**Apache Kafka/Spark**), AI (anomaly detection), Data Science (predictive models), and Web dashboards.
 
-#- name: Liver Segmentation
-#  image: /images/liver.png
-#  description: |
-#    Segmentation of liver and liver lesions by 3D U-Net.
-#    I participated in a project dealing with liver and liver lesion segmentation using the 3D U-Net model over MRI images.
-#
-- name: Brain EEG Signal
-  image: /images/brain.png
+- name: DataVerse – Unified Framework for Big Data Processing
+  github: avionicscode/DataVerse-Unified-Framework-for-Big-Data-Processing
+  image: /images/3DataVerse.png
   description: |
-    Different ML models are tested on the EEG signal to recognize some actions from the brain.
-    Features are extracted from the frequency spectrogram, and it turns out Random Forest is the best model.
-    The implementation utilizes **Scikit-Learn**.
+    A plug-and-play framework for **large-scale data pipelines**, from ingestion to AI model training.
+    Designed for banks, telecoms, healthcare, and governments.
+    Uses Big Data (**Hadoop/Spark**), scalable ML training, C++/Python APIs, and cloud-native deployment.
 
-- name: Vision-based 360-degree Robot
-  youtube_video: ZQ_D5UqUvxY
+- name: SkyCompute – High-Performance Data Processing Engine
+  github: avionicscode/SkyCompute-High-Performance-Data-Processing-Engine
+  image: /images/4SkyCompute.jpg
   description: |
-    Design and construction of a mobile robot with the ability to move to specific points on a board.
+    A GPU/CPU hybrid engine that accelerates **real-time queries and analytics**.
+    Applied in e-commerce recommendation and financial risk analysis.
+    Developed with C++/CUDA (engine core), ML (query optimization), Data Science (predictive analytics), and AI decision support.
 
-    I used a machine vision (**OpenCV** library) for navigation, Bluetooth technology for communication, and **OpenMP** library to enhance the routing algorithms' performance.
-    The programming language used in this project was **C++**.
-
-    As you can see in the video, there is a fixed camera above the robot.
-    The camera is connected to a computer and the position and angle of the robot are detected based on the robot's marker pattern.
-    The computer wirelessly sends commands which describe the PWM rate and working time for each of four motors.
-    The robot uses an **AVR microcontroller** for the execution of these commands.
-
-- name: Privacy-focused DICOM web panel
-  github: IAmS4n/CTLabeling
-  image: /images/ct_panel_demo.png
+- name: FalconX – Futuristic Drone Hardware + Simulation Toolkit
+  github: avionicscode/FalconX-Futuristic-Drone-Hardware-Simulation-Toolkit
+  image: /images/5FalconX.jpg
   description: |
-    The web system is developed based on the **Flask framework** for the easy labeling of DICOM images with Privacy protection.
-    The system is used for connecting to an AI system.
-    Also, the system is prepared for use in an **Active Learning scenario**.
+    Toolkit for **design, simulation, and implementation** of drone hardware with AI-enhanced control.
+    Aimed at education, R&D labs, and drone manufacturers.
+    Combines Embedded Systems (firmware), AI/ML (flight optimization), and Simulation tools (Unreal Engine, MATLAB/Simulink).
 
-- name: English with Movie
-  github: IAmS4n/English_with_Movie
-  image: /images/lang.png
+- name: ElectroMind – Smart Embedded Electronic Devices
+  github: avionicscode/ElectroMind-Smart-Embedded-Electronic-Devices
+  image: /images/6ElectroMind.jpg
   description: |
-    A web-based video player to leverage movies for practicing language skills.
-    There is a demo for Persian speakers in [this link](https://iams4n.github.io/English_with_Movie/).
-    The player gets a movie with two language subtitles, then it plays video dialog by dialog with an automatic pause and shows two subtitles simultaneously.
-    It has some combinations of different modes for practicing different skills.
-    The listening part is based on hiding the subtitles and normal play of the video.
-    The speaking part is based on showing just subtitle that is related to native language and muting the video.
-    **JavaScript** is the language that I used for the interface and **python** for the backend.
+    AI-embedded microelectronics for **wearables, robotics, and IoT devices**.
+    Applicable to healthcare devices, smart home systems, and robotics.
+    Built on Embedded Systems (Arduino, Raspberry Pi), AI/ML (edge computing), and Data Science (signal processing).
 
-#- name: Ink Saver
-#  image: /images/ink_saver.jpg
-#  description: |
-#    A tool to simplify slides and document images for saving the ink of the printers.
-#    **OpenCV** and **Scikit-Image** libraries are utilized for image processing and the **Flask framework** for the interface.
-#    I solved the problem of slides' background by considering slides as a video and using the video background removal techniques.
-#
-- name: Dynamic Skyline Problem
-  github: IAmS4n/MEMOCODE2015-IPM
-  image: /images/skyline.png
+- name: WebAI – Intelligent Web Application Framework
+  github: avionicscode/WebAI-Intelligent-Web-Application-Framework
+  image: /images/7WebAI.jpg
   description: |
-    Design and implementation of a high-performance and distributed solution to the Dynamic Skyline Problem.
-    The most important part of the implementation is using **data structures** such as the RedBlack tree.
-    The implementation utilizes **C++** and **OpenMP** library.
+    A web framework with **built-in AI** for personalization, chatbots, recommendation, and predictive analytics.
+    Ideal for SaaS products, e-commerce, and online learning.
+    Uses React, Django, Node.js for web development with ML/AI-based user analytics.
 
-- name: MIPS CPU with Pipeline
-  github: IAmS4n/MIPS-CPU-VHDL
-  image: /images/mips.jpg
+- name: Nebula Engine – Next-Gen Game Engine
+  github: avionicscode/Nebula-Engine-Next-Gen-Game-Engine
+  image: /images/8Nebula.Engine.jpg
   description: |
-    A MIPS CPU with Pipeline which is described in Patterson's book, is simulated using **VHDL**.
-    Also, an **assembler** is developed for testing the CPU.
+    A C++/Python-based **game engine** supporting AI-driven NPCs, real-time physics, and big data personalization.
+    Target users: indie developers, simulation training, serious games.
+    Features Game Dev (C++/OpenGL/Unreal integration), AI (procedural generation, NPC AI), and ML (adaptive difficulty).
+
+- name: TitanData – Big Data AI Engine
+  github: avionicscode/TitanData-Big-Data-AI-Engine
+  image: /images/9TitanData.jpg
+  description: |
+    A scalable engine for **AI-driven big data analytics**, optimized for parallel and GPU-based processing.
+    Applications: predictive maintenance, fraud detection, recommendation engines.
+    Built with Big Data (Hadoop/Spark), GPU acceleration, ML/AI libraries (TensorFlow/PyTorch), and Data Science workflows.
+
+- name: HoloCity – AI-Powered Urban Simulation Platform
+  github: avionicscode/HoloCity-AI-Powered-Urban-Simulation-Platform
+  image: /images/10HoloCity.png
+  description: |
+    A **digital twin of cities** integrating drones, sensors, and big data for urban simulations.
+    Use cases: traffic optimization, energy management, sustainability planning.
+    Combines AI/ML (urban forecasting), Big Data (sensor fusion), Game Dev (3D simulation), Embedded Systems (real sensors), and Web dashboards.
