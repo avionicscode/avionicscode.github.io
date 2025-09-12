@@ -1,53 +1,91 @@
+##############################################################################################################
+# Experience
+##############################################################################################################
+
 - layout: left
-  company: Research Assistant
-  job_title: Machine Learning Lab, Sharif University of Technology
-  dates: 2019 - 2021
+  company: University of Blida 1
+  job_title: Ph.D. Researcher in Big Data Management
+  dates: 2016 – 2023
   short_description: |
-    My research area is  **Computer Vision**, particularly in **Gigapixel Histopathology images** and cancer detection.
-    I was in the middle of doing my research when the world faced COVID-19 pandemic and Iran suffered from a widespread of this virus as well.
+    Conducted advanced research in **Big Data**, focusing on **parallel skyline algorithms**, 
+    **GPU acceleration**, and **decision support systems**.
   description: |
-    My research area is  **Computer Vision**, particularly in **Gigapixel Histopathology images** and cancer detection.
-    I was in the middle of doing my research when the world faced COVID-19 pandemic, and Iran suffered from a widespread of this virus as well.
-    Among tireless efforts of different researchers about COVID-19, I was asked to join in a project about researching and developing tools over **CT images** that were used to diagnose involvement.
-    This made a temporary change in accomplishing my main research.
-    However, I had the opportunity to broaden my knowledge about medical images and use it to continue my research.
+    As a Ph.D. researcher at the University of Blida 1, I worked independently on the design and 
+    development of scalable algorithms for **continuous skyline queries over data streams**.  
+    My research introduced **GPU-based acceleration strategies** that significantly improve real-time 
+    analytics in various domains such as **IoT sensor networks, smart cities, e-commerce, and traffic monitoring**.  
+
+    Key contributions:
+    - Designed **parallel skyline algorithms** for high-dimensional data streams.  
+    - Developed **GPU-powered frameworks** for real-time analytics and decision support.  
+    - Published several **peer-reviewed papers** in Springer, IEEE, and MDPI Sensors.  
+    - Applied algorithms to **smart homes, traffic optimization, intrusion detection, and recommendation systems**.  
+
+    This work laid the foundation for **high-performance decision support systems** in heterogeneous computing environments.
 
 - layout: left
-  company: Research Assistant
-  job_title: Machine Learning Lab, Sharif University of Technology / Physics Department, Shahid Beheshti University
-  dates: Mar - Sep 2018
+  company: University of Blida 1
+  job_title: Teaching Assistant
+  dates: 2016 – 2022
   description: |
-    Cosmic string simulation using Generative Adversarial Networks
+    Supported undergraduate and graduate teaching in **Computer Science and Engineering**.  
+    My responsibilities included preparing tutorials, supervising lab sessions, and mentoring 
+    students in areas related to **algorithms, data structures, databases, distributed systems, and parallel computing**.  
+
+    **Selected courses assisted:**
+    + Algorithms and Data Structures  
+    + Databases and Data Management  
+    + Distributed Systems and Cloud Computing  
+    + High-Performance Computing & GPU Programming  
+
+    This role allowed me to combine my research expertise with practical teaching experience, 
+    helping students bridge the gap between theory and real-world big data applications.
 
 - layout: left
-  company: Teaching Assistant
-  job_title: Sharif University of Technology
-  description: |
-    **Spring 2019:**
-    + [Deep Learning (Graduate Course)](http://ce.sharif.edu/courses/97-98/2/ce959-1/index.php/section/syllabus/file/syllabus)
-
-    **Fall 2018:**
-    + [Machine Learning (Graduate Course)](http://ce.sharif.edu/courses/97-98/1/ce717-2/index.php/section/syllabus/file/syllabus)
-
-    **Spring 2018:**
-    +  [*Head TA of* Probabilistic Graphical Models (Graduate Course)](http://ce.sharif.edu/courses/96-97/2/ce768-1/index.php/section/syllabus/file/syllabus)
-
-    **Fall 2017:**
-    + Modern Information Retrieval
-    + Probability and Statistics
-
-- layout: left
-  company: Summer Intern
-  link: http://ipm.ir
-  job_title: Institute for Research in Fundamental Sciences
-  dates: summer 2015
+  company: Independent Researcher & Open Source Developer
+  dates: 2020 – Present
   short_description: |
-    The learning phase of the internship was about the parallelization techniques in computers.
-    My focus was on **CPU parallelization** and learning of related libraries and techniques in C++.
+    Founder and maintainer of multiple **open-source projects** in Big Data, AI, and GPU computing.
   description: |
-    The learning phase of the internship was about the parallelization techniques in computers.
-    My focus was on **CPU parallelization** and learning of related libraries and techniques in C++.
-    Also, I experienced a deeper understanding of compilers for improving performance.
+    Alongside my academic career, I have independently developed and maintained several 
+    **open-source projects** on GitHub, including:  
+    - **Nebula Engine** (next-gen game engine with AI-driven NPCs and real-time physics).  
+    - **SkyCompute** (GPU/CPU hybrid data processing engine).  
+    - **SenseGrid** (multi-sensor data management platform).  
+    - **AeroBrain** (AI-powered drone control system).  
 
-    After the learning phase, my primary task was research on finding a high-speed solution for **Dynamic Skyline Problem** under the supervision of Dr.&nbsp;Saeid Gorgin.
-    Along with acquired knowledge in parallelization, I employed my capability in developing algorithms and data structure in the MEMOCODE contest and we won the prize of this challenge.
+    These projects demonstrate my ability to integrate **research, software engineering, and innovation** 
+    into practical tools for academia, industry, and the open-source community.
+
+- layout: left
+  company: Conferences & Research Collaborations
+  dates: 2018 – Present
+  description: |
+    Actively engaged with the **research community** through conference presentations, workshops, 
+    and collaborations.  
+    I presented and published research at several academic venues in Algeria and internationally, including:  
+    + **First National Conference of Innovation in Data Engineering and AI Science (2025)**  
+    + **First International Conference on Green Engineering (2025)**  
+    + **International Conference on Engineering, Natural Sciences, and Technological Developments (2025)**  
+    + **Multiple Springer & IEEE Indexed Conferences (2019–2024)**  
+
+    These events strengthened my academic visibility and allowed me to exchange ideas with 
+    fellow researchers on topics like **AI, data science, and parallel computing**.
+
+- layout: left
+  company: Future Career Interests
+  job_title: Postdoctoral Researcher & Innovator
+  dates: 2025 – Future
+  short_description: |
+    Exploring opportunities for **postdoctoral research** and **industry collaboration** in Big Data, 
+    AI, and intelligent systems.
+  description: |
+    My immediate goal is to secure a **postdoctoral position in Europe** where I can expand my 
+    research in:  
+    - **GPU-accelerated algorithms** for real-time data analytics  
+    - **Big Data engines for intelligent decision support systems**  
+    - **Energy-efficient computing for smart cities and sustainable technologies**  
+    - **AI-powered frameworks for drones, IoT, and autonomous systems**  
+
+    I am also working towards **commercializing my research**, turning academic prototypes 
+    into **scalable software platforms, data engines, and embedded AI solutions**.
