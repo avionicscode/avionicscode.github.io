@@ -1,130 +1,105 @@
 ##############################################################################################################
+# Awards & Achievements
 ##############################################################################################################
+
 - layout: top-middle
-  name: Academic
+  name: Academic Excellence
 ##############################################################################################################
 - layout: left
-  job_title: Sharif University of Technology
+  job_title: University of Blida 1
+  dates: 2012
+  description: |
+    **Ranked 3<sup>rd</sup>** in the National Master Entrance Examination in Avionics at University of Blida 1.
+
+- layout: left
+  job_title: University of Blida 1
+  dates: 2016
+  description: |
+    **Ranked 2<sup>nd</sup>** in the National Ph.D. Entrance Examination in Computer Science (Big Data specialization).
+
+- layout: left
+  job_title: Faculty of Science – University of Blida 1
   dates: 2019
   description: |
-    Offered to attend the Sharif University of Technology's Ph.D. program in Artificial Intelligence with Award
+    Honored for **outstanding Ph.D. research achievements** in Big Data Management and Parallel Skyline Algorithms.
 
-- layout: left
-  job_title: National Scientific Olympiad for University Students
-  dates: Aug 2016
-  description: |
-    **Ranked 4<sup>th</sup>** in the 21<sup>st</sup> National Scientific Olympiad for the University Students in Computer Engineering
-
-- layout: left
-  job_title: National Entrance Exam
-  dates: Aug 2016
-  quote: Admission to the Sharif University of Technology for graduate studies
-  description: |
-    **Ranked 9<sup>th</sup>** in Artificial Intelligence (**17<sup>th</sup>** in Computer Engineering) **among 21'534 participants** in National Entrance Exam
-
-- layout: left
-  dates: Dec 2015
-  job_title: Kharazmi University
-  description: |
-    Honored by Director of Engineering Department of Kharazmi University for outstanding research achievements
-
-- layout: left
-  job_title: Young Scholars’ Club
-  dates: Jan 2010
-  description: |
-    + Semi-finalist at 28<sup>th</sup> National Mathematics Olympiad
-    + Semi-finalist at 20<sup>th</sup> National Computer Olympiad
-    + Semi-finalist at 6<sup>th</sup> National Astronomy Olympiad
-
-##############################################################################################################
 ##############################################################################################################
 - layout: top-middle
-  name: Machine Learning Contests
+  name: Research & Publications Recognition
 ##############################################################################################################
 - layout: left
-  job_title: ISBI 2020, USA
-  link: http://2020.biomedicalimaging.org
-  dates: Apr 2020
+  job_title: International Conferences (Springer, IEEE, MDPI)
+  dates: 2019 – 2025
   description: |
-    [**Ranked 5<sup>th</sup>** in the MoNuSAC 2020 (**Ranked 3<sup>rd</sup>** in Post-Challenge Leaderboard)](https://monusac-2020.grand-challenge.org/Results/)
-
-    I was one of the three members of the *Sharif HooshPardaz* Team. We were invited to present our method in the MoNuSAC 2020 Workshop.
+    Published **peer-reviewed papers** in top venues including **Springer, IEEE, and MDPI Sensors**, 
+    covering GPU-accelerated skyline queries, data streams, and decision support systems.
 
 - layout: left
-  job_title: ECDP 2020, Portugal
-  link: http://ecdp2020.org
-  dates: Jan 2020
+  job_title: International Conference on Data Science & AI
+  dates: 2023
   description: |
-    [**Ranked 3<sup>rd</sup>** in the HEROHE ECDP 2020](https://ecdp2020.grand-challenge.org/RESULTS/)
-
-    I participated individually with the *Piaz* as the team name. My method was the best method based on the AUC metric.
+    Received **Best Paper Award Nomination** for research on **parallel skyline algorithms for IoT sensor data processing**.
 
 - layout: left
-  job_title: Sharif University of Technology
-  dates: Mar 2019
+  job_title: 2nd International Conference on Engineering, Natural Sciences, and Technological Developments (ICENSTED)
+  dates: 2025
   description: |
-    [**Ranked 3<sup>rd</sup> among more than 300 teams** in the Sharif Data Days 2019](/certificates/DataDays.jpg)
-
-    I was one of the two members of the *KIVI* Team.
-    The on-site part which was time-limited, contained some sections, such as developing a classifier for multi-modal data, including text and image.
+    Selected to present research on **GPU-based continuous skyline queries** for sustainable decision support systems.
 
 - layout: left
-  job_title: National Brain Mapping Lab, Tehran, Iran
-  link: http://nbml.ir/EN
-  dates: Dec 2017
+  job_title: International Journal Recognition
+  dates: 2024
   description: |
-    [**Ranked 1<sup>st</sup>** team in the first Iranian BCI Competition (iBCIC)](http://nbml.ir/EN/posts/1st-Iranian-Brain-Computer-Interface-Competition-Was-Held-at-NBML-on-December-2017-)
+    Research on **efficient skyline algorithms in heterogeneous computing** highlighted in **MDPI Sensors** 
+    for its innovative GPU-based strategy.
 
-    I was one of the two members of the *OCD* Team.
-    The paper in [this link](http://jmss.mui.ac.ir/index.php/jmss/article/download/539/696) contains descriptions of our method and details of the competition.
-
-##############################################################################################################
 ##############################################################################################################
 - layout: top-middle
-  name: Programming Contests
+  name: Programming & Innovation
 ##############################################################################################################
 - layout: left
-  job_title: Texas at Austin University, USA
-  link: http://memocode.irisa.fr/2015/
-  dates: July 2015
+  job_title: National Programming & Research Competitions
+  dates: 2014 – 2016
   description: |
-    [**Ranked 2<sup>nd</sup>** team in MEMOCODE Co-Design Contest’15](http://memocode.irisa.fr/2015/designcontest.html)
-
-    We were invited to present our method in the 2015 ACM/IEEE International Conference on Formal Methods and Models for Codesign.
+    Participated in national-level programming and innovation contests, contributing projects in 
+    **data processing, avionics systems, and AI-based optimization**.
 
 - layout: left
-  job_title: ICPC, West Asia Region
-  jobs:
-    - dates: Dec 2015
-    - dates: Dec 2014
+  job_title: Independent Researcher & Open Source Developer
+  dates: 2020 – 2025
   description: |
-    Our team was selected to participate in the West Asia Region of ACM/ICPC at the Sharif University site for two years, And we ranked 10<sup>th</sup> and 12<sup>th</sup>:
-    + [**Ranked 10<sup>th</sup>** in the ACM/**ICPC** Collegiate Programming Contest, 2015](/certificates/ICPC2015.pdf)
-    + [**Ranked 12<sup>th</sup>** in the ACM/**ICPC** Collegiate Programming Contest, 2014](/certificates/ICPC2014.pdf)
+    Built and maintained a series of **GPU-powered skyline query engines**, released as open-source on GitHub, 
+    widely used for **big data analytics, smart systems, and decision support applications**.
 
-##############################################################################################################
+- layout: left
+  job_title: Game Engine Development
+  dates: 2025
+  description: |
+    Designed and released a **cross-language game engine framework (C++ & Python)** integrating AI and 
+    data-driven simulations for future commercial applications.
+
 ##############################################################################################################
 - layout: top-middle
-  name: Computer Security Contests
+  name: Invited Talks & Reviewer Service
 ##############################################################################################################
 - layout: left
-  job_title: Sharif University of Technology
-  jobs:
-    - dates: Feb 2018
-    - dates: Dec 2016
-    - dates: Feb 2016
+  job_title: Invited Speaker – National Conference on AI and Information Technologies
+  dates: 2025
   description: |
-    I was a [**CTF player**](https://ctftime.org/ctf-wtf/) as a team member. I was usually working on **Cryptography** challenges and sometimes on Forensics and Web challenges.
-     + **Ranked 4<sup>th</sup> among 682 teams** (1<sup>st</sup> among Iranian teams) in the eighth international online security contest
-     + **Ranked 1<sup>st</sup> among 700 teams** in the seventh international online security contest
-     + **Ranked 1<sup>st</sup> among Iranian teams** in the sixth international online security contest
+    Delivered a talk on **GPU-accelerated skyline queries for intelligent recommendation systems** at 
+    Chadli Bendjedid El-Tarf University.
 
 - layout: left
-  job_title: Sharif University of Technology
-  jobs:
-    - dates: Feb 2015
-    - dates: Nov 2013
+  job_title: Invited Speaker – International Workshop on Data Engineering
+  dates: 2024
   description: |
-    The contest was about finding crime in a simulated world which was provided in Virtual machines. I won the first prize for two years.
-     + **Ranked 1<sup>st</sup>** in **Computer Forensics** section of the fifth security contest
-     + **Ranked 1<sup>st</sup>** in **Computer Forensics** section of the fourth security contest
+    Presented research on **real-time sensor data stream processing** using **heterogeneous computing frameworks**.
+
+- layout: left
+  job_title: Peer Reviewer – Springer & IEEE
+  dates: 2022 – Present
+  description: |
+    Served as **peer reviewer** for international journals and conferences, evaluating manuscripts in **big data, 
+    AI, GPU computing, and parallel algorithms**.
+
+##############################################################################################################
